@@ -6,6 +6,9 @@ body {
 	margin: auto;
 	font: 1em "Lora", serif;
 }
+header {
+	min-height: 280px;
+}
 .container {
 	width: 1280px;
 	margin: auto;
@@ -89,7 +92,22 @@ a {
 	}
 }
 
-
+.list {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-align: center;
+	li {
+		display: inline-block;
+		> a {
+			padding: 10px;
+			&:hover {
+				color: #fff;
+				text-decoration: underline;
+			}
+		}
+	}
+}
 
 
 /* Post styling */
