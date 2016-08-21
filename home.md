@@ -17,7 +17,7 @@ order: 1
 	</ul>
 	</div>
 </div>
-
+<h1 class='section-head'>Blogs</h1>
 {% include blog.html %}
 
 {% for page in site.pages %}

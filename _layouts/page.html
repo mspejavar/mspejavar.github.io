@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+{% if page.title != 'Home' %}<h1 class="title">{{ page.title }}</h1>{% endif %}
 <div {% if page.name == 'about.md' %} class="post" style="background:url('/images/about.jpg') no-repeat right; background-size: 560px;" {% endif %}>
+
 {{ content }}
 </div>

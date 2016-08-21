@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Contact
+title: Contact Me
 permalink: /contact/
 published: true
 order: 5
 ---
 
-# Contact Me

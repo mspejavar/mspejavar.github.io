@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: Blogs
 permalink: /blog/
 published: true
 order: 4
