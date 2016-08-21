@@ -2,8 +2,8 @@
 layout: category
 title: My Little Black Closet
 permalink: /closet/
-featureImage: 'http://lorempixel.com/560/730/fashion/6'
-thumbnailImage: 'http://lorempixel.com/350/470/fashion/6'
+featureImage: '/images/blackcloset.jpg'
+thumbnailImage: '/images/thumbs/blackcloset.jpg'
 published: true
 ---
 

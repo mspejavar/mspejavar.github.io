@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 published: true
+order: 2
 ---
 
 Fashion and life are coupled, as they always go hand in hand. And today, we celebrate this relationship by proudly speaking out who we are, what we think of life and how we see it. We have no choice but to fall for and trust that it is essential for our living.

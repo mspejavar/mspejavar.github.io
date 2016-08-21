@@ -1,9 +1,9 @@
-<header>
+<header class="section">
 	<div class="container">
-		<h1 class="logo"><a href="/"><img src="http://52.76.68.253/blog/img/D'mod-Journey.png" alt="{{ site.title }}"></a></h1>
-		<ul>
-			<li><a href="/">Home</a></li>
-			{% for page in site.pages %}
+		<h1 class="logo"><a href="/home/"><img src="http://52.76.68.253/blog/img/D'mod-Journey.png" alt="{{ site.title }}"></a></h1>
+		<ul class="list">
+			{% assign sorted_pages = site.pages | sort: "order" %}
+			{% for page in sorted_pages %}
 			{% if page.layout == 'page' %}
 			<li><a href="{{ page.url }}">{{ page.title }}</a></li>
 			{% endif %}

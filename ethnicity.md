@@ -2,8 +2,8 @@
 layout: category
 title: Ethnicity in the Modern World
 permalink: /ethnicity/
-featureImage: 'http://lorempixel.com/560/730/fashion/1'
-thumbnailImage: 'http://lorempixel.com/350/470/fashion/1'
+featureImage: '/images/emw.jpg'
+thumbnailImage: '/images/thumbs/emw.jpg'
 published: true
 ---
 Don’t you think ethnic and folk sway are much forsaken subjects today? We do put on contemporary clothes but do not give much attention to the know-how of it.  May be we should give a little importance to their grassroots.

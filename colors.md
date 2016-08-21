@@ -2,8 +2,8 @@
 layout: category
 title: The Color Affair
 permalink: /colors/
-featureImage: 'http://lorempixel.com/560/730/fashion/5'
-thumbnailImage: 'http://lorempixel.com/350/470/fashion/5'
+featureImage: '/images/coloraffair.jpg'
+thumbnailImage: '/images/thumbs/coloraffair.jpg'
 published: true
 ---
 

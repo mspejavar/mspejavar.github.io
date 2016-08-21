@@ -2,8 +2,8 @@
 layout: category
 title: 'Life, A journey'
 permalink: /my/
-featureImage: 'http://lorempixel.com/560/730/fashion/9'
-thumbnailImage: 'http://lorempixel.com/350/470/fashion/9'
+featureImage: '/images/life.jpg'
+thumbnailImage: '/images/thumbs/life.jpg'
 published: true
 ---
 
