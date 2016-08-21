@@ -9,7 +9,8 @@ published: true
 
 Women who wear black lead colorful lives.-Neiman Marcus
 
-Quote on point! Love how it’s got that loud happy side to it in spite of being perceived a serious dark color. I really wonder if there are people who would crib in Black or just crib about the color.
+Quote on point! Love how it’s got that loud happy side to it in spite of being perceived a serious dark color. 
+I really wonder if there are people who would crib in Black or just crib about the color.
 
 It is a color, full of mystery yet so easy like an open book. It bottles up everything while bringing two classes, elegance and sophistication, together. Last but not the least, it protects us from all the hues and cries keeping us in the coolest comfort zone.
 
