@@ -6,8 +6,7 @@ featureImage: 'http://lorempixel.com/560/730/fashion/3'
 thumbnailImage: 'http://lorempixel.com/350/470/fashion/3'
 published: true
 ---
-![]({{site.baseurl}}//DSC_0215.JPG)
-												Street Style
+
 Style is captured when you pick something out of the vogue and cling on to it forever.
 Speaking of street style in the 21st century, it’s fashion that has emerged from the elemental roots and something that is personal to you. If you walk on the streets, you’d definitely find plenty of them ruling their styles in comfortable denims or just the Palazzos that are heavily in, this season. These styles are usually fusion of the local street fashion and the high end fashion label. On that note, I certainly feel one can never be loyal to any label, be it the popular high-end brands or the eye catching fancy street ones.
 Besides, we can have a major variety in this section as every country rules its streets in a unique way and that’s quite the truth. 
