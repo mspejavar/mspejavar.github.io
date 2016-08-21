@@ -6,9 +6,11 @@ published: true
 order: 1
 ---
 
-<div class="post">
-<img src="http://52.76.68.253/blog/img/index-recent.jpg" alt="">
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, quae tempora sed exercitationem autem est debitis, illo error repudiandae voluptates soluta, voluptatum beatae, similique aliquam temporibus doloremque. Reprehenderit rem, non.</p>
+<div class="media">
+	<div class="media-img"><img src="http://52.76.68.253/blog/img/index-recent.jpg" alt=""></div>
+	<div class="media-bd text-center">
+	<p class="intro">Hello Everyone! I am Dhatri Rao and I welcome you all to my space where I’d love to take you all through the various tastes of my endless Fashion Journey.</p>
+	</div>
 </div>
 <h1 class='section-head'>Blogs</h1>
 {% include blog.html %}
@@ -21,5 +23,6 @@ order: 1
 {{ page.content | truncatewords: 100 }}
 <p><a href="{{ page.url }}" class="btn">Read More</a></p>
 </div>
+    </div>
 {% endif %}
 {% endfor %}
