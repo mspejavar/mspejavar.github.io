@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Obama Inaugural Address"
-categories: speeches
+category: ethnicity
 ---
 
 # Inaugural Address

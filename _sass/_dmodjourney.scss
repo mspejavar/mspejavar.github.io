@@ -1,10 +1,10 @@
 html,
 body {
 	background: #000;
-	color: #fff;
+	color: rgba(255,255,255,0.9);
 	width: 1280px;
 	margin: auto;
-	font: 1em serif;
+	font: 1em "Lora", serif;
 }
 .container {
 	width: 1280px;
@@ -13,5 +13,87 @@ body {
 
 p {
 	line-height: 1.5;
-	margin-bottom: 1.5em;
+	margin-bottom: 2em;
+}
+a {
+	color: rgba(255,255,255,1);
+	text-decoration: none;
+}
+
+
+
+/* Layout */
+.logo {
+	text-align: center;
+}
+.section {
+	margin-bottom: 24px;
+}
+.block {
+	float: left;
+	width: 305px;
+	height: 470px;
+	outline: 1px dotted #444;
+	background: #222 center center no-repeat;
+	background-size: cover;
+	box-shadow: inset 0 -100px 60px rgba(0,0,0,0.6);
+	box-sizing: border-box;
+	padding: 10px;
+	position: relative;
+}
+.block-hd {
+	margin: 0;
+	position: absolute;
+	bottom: 10px;
+}
+.block-bd {}
+
+.cf {
+	&:after {
+		content: "";
+		clear: both;
+		display: block;
+	}	
+}
+
+.row {
+	@extend .cf;
+	margin-left: -20px;
+}
+.col {
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+
+
+
+/* Post styling */
+.has-featureImage {
+	background-size: cover;
+	height: 730px;
+}
+.post {
+	p {
+		width: 700px;
+	}
+}
+
+
+
+#about {
+	background: url('http://52.76.68.253/blog/img/about.jpg') no-repeat right;
+	background-size: cover;
+	height: 450px;
+	padding: 36px;
+	box-sizing: border-box;
+	p {
+		width: 480px;
+		color: #444;
+	}
+}
+
+.btn {
+	background: #444;
+	padding: 10px 16px;
 }

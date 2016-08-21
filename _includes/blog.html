@@ -1,0 +1,14 @@
+<div class="section">
+	<h1>Blog</h1>
+	<div class="row">
+		{% for post in site.pages %}
+		{% if post.layout == 'category' %}
+		<a href="{{ post.url }}">
+			<div class="block col" style="background-image:url({{ post.thumbnailImage }});">
+				<h2 class="block-hd">{{ post.title }}</h2>
+			</div>
+		</a>
+		{% endif %}
+		{% endfor %}
+	</div>
+</div>
