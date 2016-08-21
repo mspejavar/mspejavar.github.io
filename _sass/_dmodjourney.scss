@@ -65,6 +65,20 @@ a {
 	margin-bottom: 20px;
 }
 
+.has-overlay{
+	overflow: hidden;
+	 #overlay {
+		background: #000 url('http://52.76.68.253/blog/img/cover-page.jpg') no-repeat;
+		background-size: cover;
+		position: fixed;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		cursor: pointer;
+	}
+}
+
 
 
 
