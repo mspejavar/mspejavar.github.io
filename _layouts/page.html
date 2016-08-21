@@ -1,6 +1,6 @@
 ---
 layout: default
 ---
-<div class="post" {% if page.name == 'about.md' %} style="background:url('/images/about.jpg') no-repeat right; background-size: 560px;" {% endif %}>
+<div {% if page.name == 'about.md' %} class="post" style="background:url('/images/about.jpg') no-repeat right; background-size: 560px;" {% endif %}>
 {{ content }}
 </div>
