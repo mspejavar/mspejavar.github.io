@@ -2,8 +2,8 @@
 layout: category
 title: Fashion Flashback
 permalink: /past/
-featureImage: 'http://lorempixel.com/560/730/fashion/2'
-thumbnailImage: 'http://lorempixel.com/350/470/fashion/2'
+featureImage: '/images/retro.jpg'
+thumbnailImage: '/images/thumbs/retro.jpg'
 published: true
 ---
 

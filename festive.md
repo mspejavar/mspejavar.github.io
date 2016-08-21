@@ -2,8 +2,8 @@
 layout: category
 title: Making life a celebration
 permalink: /festive/
-featureImage: 'http://lorempixel.com/560/730/fashion/7'
-thumbnailImage: 'http://lorempixel.com/350/470/fashion/7'
+featureImage: '/images/festive.jpg'
+thumbnailImage: '/images/thumbs/festive.jpg'
 published: true
 ---
 

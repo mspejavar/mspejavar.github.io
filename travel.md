@@ -2,8 +2,8 @@
 layout: category
 title: The Travel Story
 permalink: /travel/
-featureImage: 'http://lorempixel.com/560/730/fashion/8'
-thumbnailImage: 'http://lorempixel.com/350/470/fashion/8'
+featureImage: '/images/travelstory.jpg'
+thumbnailImage: '/images/thumbs/travelstory.jpg'
 published: true
 ---
 

@@ -2,8 +2,8 @@
 layout: category
 title: Custom Made
 permalink: /custom/
-featureImage: 'http://lorempixel.com/560/730/fashion/4'
-thumbnailImage: 'http://lorempixel.com/350/470/fashion/4'
+featureImage: '/images/custom.jpg'
+thumbnailImage: '/images/thumbs/custom.jpg'
 published: true
 ---
 
