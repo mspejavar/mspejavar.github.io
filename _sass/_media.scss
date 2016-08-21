@@ -1,0 +1,18 @@
+%cf {
+	&:after {
+		content: "";
+		clear: both;
+		display: block;
+	}
+}
+
+.media {
+	@extend %cf;
+}
+.media-img {
+	display: table-cell;
+	vertical-align: top;
+}
+.media-bd {
+	display: table-cell;
+}
