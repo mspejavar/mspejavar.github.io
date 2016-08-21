@@ -7,7 +7,6 @@ thumbnailImage: 'http://lorempixel.com/350/470/fashion/4'
 published: true
 ---
 
-													Custom Made
 Feasting our eyes on something that our heart yearns for, yet seems impossible to aquire, is frustrating, I know. We’d be willing to go the distance to satiate this thirst. What if we could go a step ahead and create or design them ourselves?
 What can get better than designing your own stylish pieces? There is definite sense of satisfaction here because you know your designs better than anyone else can, and aquire the perfect fit and flare that lets you live comfortable in these pieces. The custom-tailored pieces are well crafted according to ones needs and offered at affordable prices.
 Or perhaps, we’d want to add an additional splash of color to it or add a different shade. Having a bit of desire in there will endear it all the more.
