@@ -8,14 +8,7 @@ order: 1
 
 <div class="media">
 	<div class="media-img"><img src="http://52.76.68.253/blog/img/index-recent.jpg" alt=""></div>
-	<div class="media-bd text-center v-middle">
-	<p class="intro">Hello Everyone! I am Dhatri Rao and I welcome you all to my space where I’d love to take you all through the various tastes of my endless Fashion Journey.</p>
-	<ul class="list">
-		<li><a target="_blank" href="{{ site.instagram}}"><i class="fa fa-2x fa-instagram"></i></a></li>
-		<li><a target="_blank" href="{{ site.facebook}}"><i class="fa fa-2x fa-facebook"></i></a></li>
-		<li><a target="_blank" href="{{ site.wooplr}}"><img src="https://www.wooplr.com/images/jiggle-icon-1439884301966.png" alt="wooplr" height="28"></a></li>
-	</ul>
-	</div>
+        <div class="media-img" style="padding-left:10px"><img src="/images/upcoming.jpg" alt="" style="width:100%; height:400px;"></div>
 </div>
 <h1 class='section-head'>Blogs</h1>
 {% include blog.html %}
