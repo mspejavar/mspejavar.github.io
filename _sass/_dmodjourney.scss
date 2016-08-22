@@ -2,7 +2,7 @@ html,
 body {
 	background: rgba(0,0,0,1);
 	color: rgba(255,255,255,0.9);
-	font: 1em "Lora", serif;
+	font: 1.1em "Cormorant", serif;
 	font-weight: 300;
 	margin: 0;
 	padding: 0;
@@ -181,9 +181,9 @@ a {
 .grid-item { 
     width: 248px;
     transition: 0.3s ease;
-    &:nth-of-type(4n+2) {
-    	width: 506px;
-    }
+    // &:nth-of-type(4n+2) {
+    // 	width: 506px;
+    // }
     &:hover{
         transform: scale(1.25, 1.25);
         z-index: 1;

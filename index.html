@@ -12,19 +12,31 @@ title: Welcome
 	</div>
 </div>
 
-<h1 class='section-head'>Blogs </h1>
-{% include blog.html %}
+<div class="section">
+	<h1 class='title'>Blogs </h1>
+	{% include blog.html %}
+</div>
 
+<div class="section">
+	<h1 class="title">LookBook</h1>
+	<div class="lookbook">
+		{% for file in site.static_files %}
+		{% if file.path contains '/lookbook/thumbs/' %}
+		<div class="lookbook grid-item"><img src="{{file.path}}" style="max-width: 100%;" /></div>
+		{% endif %}
+		{% endfor %}
+	</div>
+</div>
 
 {% for page in site.pages %}
 {% if page.name == 'about.md' %}
 <div class="section">
-        <h1 class='section-head'>About Me </h1>
-<div id="about" class="post">
-{{ page.content | truncatewords: 50 }}
-<p><a href="{{ page.url }}" class="btn">Read More&hellip;</a></p>
+	<h1 class='title'>About Me </h1>
+	<div id="about" class="post">
+		{{ page.content | truncatewords: 50 }}
+		<p><a href="{{ page.url }}" class="btn">Read More&hellip;</a></p>
+	</div>
 </div>
-    </div>
 {% endif %}
 {% endfor %}
 
@@ -35,7 +47,7 @@ title: Welcome
 			slidesToShow: 4,
 			slidesToScroll: 1,
 			autoplay: true,
-				autoplaySpeed: 3000,
+			autoplaySpeed: 3000,
 		});
 	});
 </script>
