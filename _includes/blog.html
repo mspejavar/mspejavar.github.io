@@ -1,5 +1,5 @@
 <div class="section">
-	<div class="blog-list">
+	<div class="blog-list {% if page.title != 'Home' %} row {% endif %}">
 		{% for post in site.pages %}
 		{% if post.layout == 'category' %}
 		<a href="{{ post.url }}">
