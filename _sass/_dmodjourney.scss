@@ -4,7 +4,8 @@ body {
 	color: rgba(255,255,255,0.9);
 	width: 1280px;
 	margin: auto;
-	font: 1em "Lora", serif;
+	font: 1em "Cormorant", "Lora", serif;
+	font-weight: 300;
 }
 header {
 	min-height: 280px;
@@ -31,16 +32,15 @@ a {
 }
 .section {
 	margin-bottom: 24px;
-        .section-head {
-                font-family: 'Raleway', sans-serif;
-                font-weight: 100;
-                letter-spacing: 0.3em;
-                text-transform: uppercase;
-                padding: 2% 0;
-                text-align: center;
-                border-bottom: 1px solid white;
-                border-top: 1px solid white;
-        }
+	.section-head {
+		font-family: 'Poiret One','Raleway', sans-serif;
+		letter-spacing: 0.3em;
+		text-transform: uppercase;
+		padding: 2% 0;
+		text-align: center;
+		border-bottom: 1px solid rgba(255,255,255,0.4);
+		border-top: 1px solid rgba(255,255,255,0.4);
+	}
 }
 .block {
 	float: left;
@@ -49,15 +49,21 @@ a {
 	outline: 1px dotted #444;
 	background: #222 center center no-repeat;
 	background-size: cover;
-	box-shadow: inset 0 -100px 60px rgba(0,0,0,0.6);
+	box-shadow: inset 0 -60px 40px rgba(0,0,0,0.6);
 	box-sizing: border-box;
-	padding: 10px;
 	position: relative;
 }
 .block-hd {
 	margin: 0;
 	position: absolute;
-	bottom: 10px;
+	bottom: 6px;
+	left: 6px;
+	right: 6px;
+	font-size: 24px;
+	font-weight: 300;
+	letter-spacing: 1px;
+	background-color: rgba(0,0,0,0.6);
+	padding: 10px;
 }
 .block-bd {}
 
@@ -80,7 +86,7 @@ a {
 
 .has-overlay{
 	overflow: hidden;
-	 #overlay {
+	#overlay {
 		background: #000 url('http://52.76.68.253/blog/img/cover-page.jpg') no-repeat;
 		background-size: cover;
 		position: fixed;
@@ -121,14 +127,14 @@ a {
 	}
 }
 .title {
-    font-family: 'Raleway', sans-serif;
-    font-weight: 100;
-    letter-spacing: 0.3em;
-    text-transform: uppercase;
-    padding: 2% 0;
-    text-align: center;
-    border-bottom: 1px solid white;
-    border-top: 1px solid white;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 100;
+	letter-spacing: 0.3em;
+	text-transform: uppercase;
+	padding: 2% 0;
+	text-align: center;
+	border-bottom: 1px solid white;
+	border-top: 1px solid white;
 }
 
 .intro {

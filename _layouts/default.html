@@ -3,8 +3,9 @@
 <head>
 	<meta charset="UTF-8">
 	<title>{{ page.title }} | {{ site.title }}</title>
-	<link href="https://fonts.googleapis.com/css?family=Lora|Raleway" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Lora|Raleway|Cormorant:300|Unica+One|Poiret+One" rel="stylesheet">
 	<link rel="stylesheet" href="/css/main.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css">
 </head>
 <body {% if page.url == '/' %} class="has-overlay" onclick="D.show();" {% endif %}>
 	{% include header.html %}
@@ -15,6 +16,8 @@
 	
 	{% include footer.html %}
 	<script src="https://use.fontawesome.com/94c2c9f3c5.js"></script>
+	<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js"></script>
 	<script>
 		var D = {
 			show: function() {
@@ -27,6 +30,15 @@
 				}
 			}
 		};
+		$(document).ready(function() {
+			$('.blog-list').slick({
+				infinite: true,
+				slidesToShow: 4,
+				slidesToScroll: 1,
+				autoplay: true,
+  				autoplaySpeed: 5000,
+			});
+		});
 	</script>
 </body>
 </html>
