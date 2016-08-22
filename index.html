@@ -7,7 +7,7 @@ title: Welcome
 	<div class="media-img"><img src="http://52.76.68.253/blog/img/index-recent.jpg" alt=""></div>
 	<div class="media-bd" style="padding-left:28px;">
 		<div style="background:url('/images/upcoming.jpg') no-repeat;height:400px;padding: 10px 24px;">
-			<p style="background-color: rgba(0,0,0,0.8);padding: 10px;font-size: 24px; font-family:Cormorant;">Hello Everyone! I am Dhatri Rao and I welcome you all to my space where I’d love to take you all through the various tastes of my endless Fashion Journey.</p>
+			<p style="background-color: rgba(0,0,0,0.8);padding: 10px;font-size: 24px; font-family:Cormorant;margin-top: 200px;">Hello Everyone! I am Dhatri Rao and I welcome you all to my space where I’d love to take you all through the various tastes of my endless Fashion Journey.</p>
 		</div>
 	</div>
 </div>
@@ -15,17 +15,6 @@ title: Welcome
 <div class="section">
 	<h1 class='title'>Blogs </h1>
 	{% include blog.html %}
-</div>
-
-<div class="section">
-	<h1 class="title">LookBook</h1>
-	<div class="lookbook">
-		{% for file in site.static_files %}
-		{% if file.path contains '/lookbook/thumbs/' %}
-		<div class="lookbook grid-item"><img src="{{file.path}}" style="max-width: 100%;" /></div>
-		{% endif %}
-		{% endfor %}
-	</div>
 </div>
 
 {% for page in site.pages %}
