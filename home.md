@@ -24,7 +24,8 @@ order: 1
 <div class="section">
         <h1 class='section-head'>About Me </h1>
 <div id="about" class="post">
-{{ page.content | truncatewords: 50 }}
+<p style="font-weight:bold;font-size:x-large;">Unleashing a New Life...</p>
+{{ page.content | truncatewords: 35 }}
 <p><a href="{{ page.url }}" class="btn">Read More&hellip;</a></p>
 </div>
     </div>
