@@ -11,36 +11,34 @@ order: 5
           <div class="text-center">
             <p>If you have any questions please don't hesitate to ask, we will answer you within 24 hours, Monday - Friday!</p>
 
-            <div class="inner contact">
               <!-- Form Area -->
               <div class="contact-form">
                 <!-- Form -->
                 <form id="contact-us">
                   <!-- Left Inputs -->
+                  <div class="contact-inner">
                   <div class="left-block">
                     <!-- Name -->
-                    <input type="text" name="name" id="name" required="required" class="form" placeholder="Name">
+                    <input type="text" name="name" id="name" required="required" class="form-input" placeholder="Name">
                     <!-- Email -->
-                    <input type="email" name="mail" id="mail" required="required" class="form" placeholder="Email">
+                    <input type="email" name="mail" id="mail" required="required" class="form-input" placeholder="Email">
                     <!-- Subject -->
-                    <input type="number" name="phone-number" id="phone-number" required="required" class="form" placeholder="Phone Number">
+                    <input type="number" name="phone-number" id="phone-number" required="required" class="form-input" placeholder="Phone Number">
                   </div><!-- End Left Inputs -->
                   <!-- Right Inputs -->
                   <div class="right-block">
                     <!-- Message -->
-                    <textarea name="message" id="message" class="form textarea" placeholder="Message"></textarea>
+                    <textarea name="message" id="message" class="form-input textarea" placeholder="Message"></textarea>
                   </div><!-- End Right Inputs -->
+                  </div>
                   <!-- Bottom Submit -->
-                  <div class="submit-button">
+                    <div class="submit-button">
                     <!-- Send Button -->
-                    <button type="submit" id="submit" name="submit" class="form-btn semibold">Send Message</button> 
+                    <button type="submit" id="submit" name="submit" class="form-btn">Send Message</button> 
                   </div><!-- End Bottom Submit -->
-                  <!-- Clear -->
-                  <div class="clear"></div>
                 </form>
 
               </div><!-- End Contact Form Area -->
-            </div><!-- End Inner -->
             
           </div>
         </div>
