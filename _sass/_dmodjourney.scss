@@ -4,7 +4,7 @@ body {
 	color: rgba(255,255,255,0.9);
 	width: 1280px;
 	margin: auto;
-	font: 1em "Cormorant", "Lora", serif;
+	font: 1em "Lora", serif;
 	font-weight: 300;
 }
 header {
@@ -35,7 +35,6 @@ a {
 	.section-head {
 		font-family: 'Poiret One','Raleway', sans-serif;
 		letter-spacing: 0.3em;
-		text-transform: uppercase;
 		padding: 2% 0;
 		text-align: center;
 		border-bottom: 1px solid rgba(255,255,255,0.4);
@@ -46,14 +45,23 @@ a {
 	float: left;
 	width: 305px;
 	height: 470px;
-	outline: 1px dotted #444;
 	background: #222 center center no-repeat;
 	background-size: cover;
-	box-shadow: inset 0 -60px 40px rgba(0,0,0,0.6);
+	box-shadow: inset 0 0 100px rgba(0,0,0,0.6);
 	box-sizing: border-box;
 	position: relative;
+	transition: 300ms all;
+    &:hover {
+        box-shadow: none;
+        .block-hd {
+    		background-color: rgba(0,0,0,0.9);    	
+        	transition: 200ms all;
+        }
+    }
 }
 .block-hd {
+	font-family: "Cormorant";
+	font-weight: 100;
 	margin: 0;
 	position: absolute;
 	bottom: 6px;
@@ -161,5 +169,10 @@ a {
 	padding: 10px 16px;
 }
 .lookbook img {
-	max-width: 100%;
+    max-width: 100%;
+}
+
+.lookbook {
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
