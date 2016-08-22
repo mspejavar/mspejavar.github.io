@@ -184,6 +184,9 @@ a {
     -moz-transition: 0.5s ease;
     &:hover{
         width: 25%;
+        -webkit-transform: scale(1.25, 1.25); /* Safari */
+        -moz-transition: scale(1.25, 1.25);
+        transform: scale(1.25, 1.25);
         z-index: 1;
         opacity: 1;
         -webkit-opacity: 1;
