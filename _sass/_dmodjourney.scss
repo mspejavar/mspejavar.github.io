@@ -175,8 +175,17 @@ a {
 .lookbook img {
     max-width: 100%;
 }
-
-.lookbook {
-    padding-bottom: 10px;
-    padding-top: 10px;
+.grid { text-align: center;}
+.grid-item { 
+    width: 20%;
+    transition: 0.5s ease;
+    -webkit-transition: 0.5s ease;
+    -moz-transition: 0.5s ease;
+    &:hover{
+        width: 25%;
+        z-index: 1;
+        opacity: 1;
+        -webkit-opacity: 1;
+        -moz-opacity: 1;
+    }
 }
