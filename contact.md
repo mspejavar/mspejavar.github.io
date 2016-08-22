@@ -51,7 +51,7 @@ $("#contact-us").submit(function (e) {
             "name": $('[name="name"]').val(),
             "number" : $('[name="phone-number"]').val(),
             "email" : $('[name="mail"]').val(),
-            "message": $('[name="message"]').val()
+            "message": encodeURI($('[name="message"]').val())
         };
         window.location = "mailto:dhatripejavar18@gmail.com?subject=Contact Request on D'mod Journey" + "&body="+ formData.message + "%0D%0A%0D%0ARegards,%0D%0A" + formData.name + "%0D%0A" + formData.number + "%0D%0A" + formData.email;
     });
