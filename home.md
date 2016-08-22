@@ -10,24 +10,25 @@ order: 1
 	<div class="media-img"><img src="http://52.76.68.253/blog/img/index-recent.jpg" alt=""></div>
 	<div class="media-bd" style="padding-left:28px;">
 		<div style="background:url('/images/upcoming.jpg') no-repeat;height:400px;padding: 10px 24px;">
-			<p style="background-color: rgba(0,0,0,0.8);padding: 10px;font-size: 24px; font-family:Cormorant;">Hello Everyone! I am Dhatri Rao and I welcome you all to my space where I’d love to take you all through the various tastes of my endless Fashion Journey.</p>
+			<p style="background-color: rgba(0,0,0,0.8);padding: 10px;font-size: 24px; font-family:Cormorant;margin-top: 200px;">Hello Everyone! I am Dhatri Rao and I welcome you all to my space where I’d love to take you all through the various tastes of my endless Fashion Journey.</p>
 		</div>
 	</div>
 </div>
 
-<h1 class='section-head'>Blogs </h1>
-{% include blog.html %}
-
+<div class="section">
+	<h1 class='title'>Blogs </h1>
+	{% include blog.html %}
+</div>
 
 {% for page in site.pages %}
 {% if page.name == 'about.md' %}
 <div class="section">
         <h1 class='section-head'>About Me </h1>
 <div id="about" class="post">
-{{ page.content | truncatewords: 50 }}
+    <p style="font-weight:bold;font-size:x-large;">Unleashing a New Life...</p>
+{{ page.content | truncatewords: 35 }}
 <p><a href="{{ page.url }}" class="btn">Read More&hellip;</a></p>
 </div>
-    </div>
 {% endif %}
 {% endfor %}
 
@@ -38,7 +39,7 @@ order: 1
 			slidesToShow: 4,
 			slidesToScroll: 1,
 			autoplay: true,
-				autoplaySpeed: 3000,
+			autoplaySpeed: 3000,
 		});
 	});
 </script>
