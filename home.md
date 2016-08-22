@@ -8,18 +8,23 @@ order: 1
 
 <div class="media">
 	<div class="media-img"><img src="http://52.76.68.253/blog/img/index-recent.jpg" alt=""></div>
-        <div class="media-img" style="padding-left:10px"><img src="/images/upcoming.jpg" alt="" style="width:100%; height:400px;"></div>
+	<div class="media-bd" style="padding-left:28px;">
+		<div style="background:url('/images/upcoming.jpg') no-repeat;height:400px;padding: 10px 24px;">
+			<p style="background-color: rgba(0,0,0,0.8);padding: 10px;font-size: 24px; font-family:Cormorant;">Hello Everyone! I am Dhatri Rao and I welcome you all to my space where I’d love to take you all through the various tastes of my endless Fashion Journey.</p>
+		</div>
+	</div>
 </div>
-<h1 class='section-head'>Blogs</h1>
+
+<h1 class='section-head'>Blogs </h1>
 {% include blog.html %}
+
 
 {% for page in site.pages %}
 {% if page.name == 'about.md' %}
 <div class="section">
         <h1 class='section-head'>About Me </h1>
 <div id="about" class="post">
-<p style="font-weight:bold;font-size:x-large;">Unleashing a New Life</p>
-{{ page.content | truncatewords: 35 }}
+{{ page.content | truncatewords: 50 }}
 <p><a href="{{ page.url }}" class="btn">Read More&hellip;</a></p>
 </div>
     </div>
