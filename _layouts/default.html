@@ -12,14 +12,16 @@
 	<script src="https://use.fontawesome.com/94c2c9f3c5.js"></script>
 	<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js"></script>
-        <script src="https://npmcdn.com/packery@2.1/dist/packery.pkgd.min.js"></script>
-        <script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
         <meta property="og:type" content="article" />
         <meta property="og:title" content="{{ page.title }} | {{ site.title }}" />
         <meta property="og:description" content="Hello Everyone! I am Dhatri Rao and I welcome you all to my space where I’d love to take you all through the various tastes of my endless Fashion Journey." />
         <meta property="og:image" content="/images/coverpicture.jpg" />
+
+	<script src="https://npmcdn.com/packery@2.1/dist/packery.pkgd.min.js"></script>
+	<script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
+
 </head>
-<body {% if page.url == '/' %} class="has-overlay" onclick="D.show();" {% endif %}>
+<body {% if page.url == '/' %} class="has-overlay" {% endif %}>
 	{% include header.html %}
 	
 	<div class="section">
@@ -28,17 +30,15 @@
 	
 	{% include footer.html %}
 	<script>
-		var D = {
-			show: function() {
-				console.log(window.history);
-				var d = document.body;
-				if (d.classList.value == 'has-overlay') {
-					d.classList.remove('has-overlay');
+		$(document).ready(function() {
+			$('body').on('click', function() {
+				if ($(this).hasClass('has-overlay')) {
+					$(this).removeClass('has-overlay');
 				} else {
 					return false;
 				}
-			}
-		};
+			});
+		});
 	</script>
 </body>
 </html>
