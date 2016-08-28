@@ -1,25 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>{{ page.title }} | {{ site.title }}</title>
-	<link href="https://fonts.googleapis.com/css?family=Lora|Raleway|Cormorant:300|Unica+One|Poiret+One" rel="stylesheet">
-	<link rel="stylesheet" href="/css/main.css">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css">
-	<link rel="stylesheet" href="/css/main.css">
-	
-	<script src="https://use.fontawesome.com/94c2c9f3c5.js"></script>
-	<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js"></script>
-        <meta property="og:title" content="{{ page.title }} | {{ site.title }}" />
-        <meta property="og:description" content="Hello Everyone! I am Dhatri Rao and I welcome you all to my space where I’d love to take you all through the various tastes of my endless Fashion Journey." />
-        <meta property="og:image" content="http://www.dmodjourney.com/images/coverpicture.jpg" />
 
-	<script src="https://npmcdn.com/packery@2.1/dist/packery.pkgd.min.js"></script>
-	<script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
-        <!-- Google Analytics -->
-        <script>
+<head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    
+    {% if page.layout == 'post' %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% endif %}
+    
+    <!-- OG -->
+    <meta property="og:title" content="{{ page.title }} | {{ site.title }}" />
+    <meta property="og:description" content="Hello Everyone! I am Dhatri Rao and I welcome you all to my space where I’d love to take you all through the various tastes of my endless Fashion Journey."
+    />
+    <meta property="og:image" content="http://www.dmodjourney.com/images/coverpicture.jpg" />
+    <!-- /OG -->
+    
+    <!-- CSS -->
+    <link href="https://fonts.googleapis.com/css?family=Lora|Raleway|Cormorant:300|Unica+One|Poiret+One" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css">
+    <link rel="stylesheet" href="/css/main.css">
+    {% if page.layout == 'post' %}
+    <link rel="stylesheet" href="https://npmcdn.com/tachyons@4.1.2/css/tachyons.min.css" />
+    {% endif %}
+    <!-- /CSS -->
+
+    <!-- JS -->
+    <script src="https://use.fontawesome.com/94c2c9f3c5.js"></script>
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js"></script>
+    <script src="https://npmcdn.com/packery@2.1/dist/packery.pkgd.min.js"></script>
+    <script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
+    <!-- /JS -->
+    
+    <!-- Google Analytics -->
+    <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -28,17 +45,18 @@
         ga('create', 'UA-83012933-1', 'auto');
         ga('send', 'pageview');
         </script>
-        <!-- End Google Analytics -->
+    <!-- End Google Analytics -->
 </head>
-<body {% if page.url == '/' %} class="has-overlay" {% endif %}>
-	{% include header.html %}
-	
-	<div class="section">
-		<div class="container">{{ content }}</div>
-	</div>
-	
-	{% include footer.html %}
-	<script>
+
+<body class="bg-near-black white-80 {% if page.url=='/' %} has-overlay {% endif %} {% if page.layout == 'post' %} blog {% endif %}">
+    {% include header.html %}
+
+    <div class="section">
+        <div class="container">{{ content }}</div>
+    </div>
+
+    {% include footer.html %}
+    <script>
 		$(document).ready(function() {
 			$('body').on('click', function() {
 				if ($(this).hasClass('has-overlay')) {
@@ -48,4 +66,5 @@
 		});
 	</script>
 </body>
+
 </html>
