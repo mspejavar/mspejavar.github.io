@@ -1,5 +1,5 @@
 <div class="section">
-	<div class="blog-list {% if page.title != 'Home' %} row {% endif %}">
+	<div class="blog-list">
 		{% for post in site.pages %}
 		{% if post.layout == 'category' %}
 		<a href="{{ post.url }}">
@@ -11,3 +11,34 @@
 		{% endfor %}
 	</div>
 </div>
+{% if page.title != 'Home' %} 
+<div class="section preview">
+{% for post in site.posts %}
+    <h1 class="title">
+        {{ post.title }}
+    </h1>
+    <div class="preview-body cf">
+            <img class='blog-thumb' src = "{{ post.thumbnailImage }}">
+            <div class="blog-content">
+                {{ post.content | truncatewords: 75 }}
+                <a href="{{ post.url }}" class="btn">Read More&hellip;</a>
+            </div>
+    </div>
+{% endfor %}
+</div>
+{% endif %}
+
+
+<script>
+	$(document).ready(function() {
+		$('.blog-list').slick({
+			infinite: true,
+			slidesToShow: 4,
+			slidesToScroll: 1,
+			autoplay: true,
+			autoplaySpeed: 3000,
+		});
+	});
+</script>
+
+    
