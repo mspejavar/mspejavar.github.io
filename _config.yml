@@ -1,9 +1,45 @@
 title: D'Mod Journey
 email: contact@dmodjourney.com
 url: "http://wwww.dmodjourney.com"
+
+# Social media accounts
 wooplr: https://www.wooplr.com/user/dhatri-rao/5758112106545152/recommendations
 facebook:  https://www.facebook.com/dhatri187
 instagram: https://www.instagram.com/dhatrirao/
 
+permalink: /blog/:categories/:year/:month/:title/
 # Build settings
 markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
+prose:
+  ignore:
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "category"
+        field:
+          element: "multiselect"
+          label: "Add Category"
+          placeholder: "Add Category"
+          alterable: true
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "image"
+        field:
+          element: "text"
+          label: "Add Image to Post"
+          placeholder: "Image path"
+          alterable: true
