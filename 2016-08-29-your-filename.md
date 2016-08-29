@@ -21,12 +21,19 @@ P.S- The skirt that I wore for my first look, the side high low hem skirt was my
 The Fun-Around Chic
 
 ![]({{site.baseurl}}/images/DSC_0482.JPG)
+
 ![]({{site.baseurl}}/images/DSC_04851.jpg)
+
 ![]({{site.baseurl}}/images/DSC_0489.JPG)
+
 ![]({{site.baseurl}}/images/DSC_0528.JPG)
-![]({{site.baseurl}}/images/DSC_04341.JPG)
+
+![]({{site.baseurl}}/images/DSC_04342.JPG)
+
+![]({{site.baseurl}}/images/DSC_04722.JPG)
+
 ![]({{% site.baseurl %}}/images/DSC_04721.JPG)
-{% image DSC_0482.JPG "" "" %}
+
 
 
 
