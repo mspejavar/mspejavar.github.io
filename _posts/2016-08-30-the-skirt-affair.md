@@ -2,6 +2,8 @@
 layout: post
 published: false
 title: 2016-08-30-the-skirt-affair.md
+category:
+  - street
 ---
 
 > Be comfortable in your own skin. If you’re not, you’ll never convince others that you are.
