@@ -7,6 +7,8 @@ category:
 featureImage: /images/skirt-affair.jpg
 thumbnailImage: /images/thumbs/skirt-affair.jpg
 published: true
+image: >-
+  https://github.com/mspejavar/mspejavar.github.io/blob/master/images/DSC_0434%20(1).JPG
 ---
 
 ## Be comfortable in your own skin. If you’re not, you’ll never convince others that you are.
@@ -27,4 +29,3 @@ So this is it. I’d love to know how you guys thought of today’s post. See yo
 Photo Courtesy – Ashwini Chivukula. She’s done a great job and you’ll must definitely check her instagram profile out - http://instagram.com/ashchivy
 
 P.S- The skirt that I wore for my first look, the side high low hem skirt was my made by me. It’s definitely super easy to make and I’d come up with a post for that very soon!
-
