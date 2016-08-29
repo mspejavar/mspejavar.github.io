@@ -26,9 +26,8 @@ The Fun-Around Chic
 ![]({{site.baseurl}}/images/DSC_0528.JPG)
 ![]({{site.baseurl}}/images/DSC_04341.JPG)
 ![]({{% site.baseurl %}}/images/DSC_04721.JPG)
-{% image my-image.png "Image alt text" "Optional image caption" %}
+{% image DSC_0482.JPG "" "" %}
 
 
 
 Top:  Bugis Street, Singapore | Suspenders: Amazon India | Bodycon Skirt: Bugis Street, Singapore | High Low Skirt: Custom Made | Heels: Jabong India | Sneakers: Call ItSpring | Sling: Caprese
-
