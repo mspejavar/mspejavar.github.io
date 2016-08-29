@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Skirt Girl feat. Street
+title: Street Girl feat. Skirt
 author: Arthur Conan Doyle
 category:
   - street
