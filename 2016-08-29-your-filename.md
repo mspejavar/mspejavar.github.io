@@ -13,12 +13,12 @@ Being a cosmic lover of the pure combination of black and white, I conveniently 
 
 So this is it. I’d love to know how you guys thought of today’s post. See you all soon with another post! ☺
 
-Photo Courtesy – Ashwini Chivukula. She’s done a great job and you’ll must definitely check her instagram profile out - http://instagram.com/ashchivy
+Photo Courtesy – Ashwini Chivukula. She’s done a great job and you’ll must definitely check her instagram profile out - [ashchivy](http://instagram.com/ashchivy)
 
 P.S- The skirt that I wore for my first look, the side high low hem skirt was my made by me. It’s definitely super easy to make and I’d come up with a post for that very soon!
 
 
-The Fun-Around Chic
+### The Fun-Around Chic
 
 ![]({{site.baseurl}}/images/DSC_0482.JPG)
 
@@ -32,10 +32,10 @@ The Fun-Around Chic
 
 ![]({{site.baseurl}}/images/DSC_04722.JPG)
 
-![]({{% site.baseurl %}}/images/DSC_04721.JPG)
 
 
-That poised Girl
+
+### That Poised Girl
 
 ![]({{site.baseurl}}/images/DSC_0549.JPG)
 
