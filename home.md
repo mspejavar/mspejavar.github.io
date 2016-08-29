@@ -11,7 +11,7 @@ order: 1
 	<div class="media-bd" style="padding-left:28px;">
                 <a href="/street/2016/08/29/the-skirt-affair.html">
 		<div style="background:url('/images/upcoming.jpg') no-repeat;height:400px;padding: 10px 24px;">
-			<p style="background-color: rgba(0,0,0,0.8);padding: 10px;font-size: 24px; font-family:Cormorant;margin-top: 300px;">Latest Post: The Skirt Affair</p>
+			<p style="background-color: rgba(0,0,0,0.8);padding: 10px;font-size: 24px; font-family:Cormorant;margin-top: 300px;">Upcoming Post: The Skirt Affair</p>
 		</div></a>
 	</div>
 </div>
