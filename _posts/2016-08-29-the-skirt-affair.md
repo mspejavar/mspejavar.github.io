@@ -28,4 +28,3 @@ Photo Courtesy – Ashwini Chivukula. She’s done a great job and you’ll must
 
 P.S- The skirt that I wore for my first look, the side high low hem skirt was my made by me. It’s definitely super easy to make and I’d come up with a post for that very soon!
 
-![]({{site.baseurl}}/_posts/DSC_0472%20(1).JPG)
