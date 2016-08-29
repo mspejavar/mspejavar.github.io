@@ -7,7 +7,6 @@ category:
 featureImage: /images/skirt-affair.jpg
 thumbnailImage: /images/thumbs/skirt-affair.jpg
 published: true
-image: /images/DSC_0434 (1).JPG
 ---
 
 ## Be comfortable in your own skin. If you’re not, you’ll never convince others that you are.
