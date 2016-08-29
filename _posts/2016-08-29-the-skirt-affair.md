@@ -8,7 +8,7 @@ featureImage: /images/skirt-affair.jpg
 thumbnailImage: /images/thumbs/skirt-affair.jpg
 published: true
 ---
-![DSC_0434 (1).JPG]({{site.baseurl}}/_posts/DSC_0434 (1).JPG)
+[DSC_0434 (1).JPG]({{site.baseurl}}/_posts/DSC_0434 (1).JPG)
 
 ## Be comfortable in your own skin. If you’re not, you’ll never convince others that you are.
 In my opinion, street style would do all the more justice to this quote. There is no way we can go wrong with this style as it is all to do with one’s own choice and taste. So, just let that street style affair work.
