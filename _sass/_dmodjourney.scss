@@ -258,3 +258,10 @@ a {
 .justified {
     text-align: justify;
 }
+.post-content{
+    margin-bottom: 50px;
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+}

@@ -21,7 +21,9 @@ layout: default
 <article class="pa3 mw7 center justified">
     <h1 class="f2">{{ page.title }}</h1>
     <h2 class="f6 tracked">{{ page.date | date: '%B %d, %Y' }}, <a href="/{{page.category}}">{{ page.category }}</a></h2>
-    <img src="{{page.featureImage}}" />
-    {{ content }}
-    <div class="fb-comments" data-href="{{site.url}}/{{page.url}}" data-numposts="5"></div>
+    <div class="post-content">
+            <img src="{{page.featureImage}}" />
+            {{ content }}
+    </div>
+    <div class="fb-comments" data-href="{{site.url}}/{{page.url}}" data-numposts="5" data-colorscheme="dark" data-width="100%"></div>
 </article>
