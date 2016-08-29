@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Skirt Affair
+title: Skirt Girl feat. Street
 author: Arthur Conan Doyle
 category:
   - street
@@ -17,8 +17,8 @@ Every girl has a few must have essentials and one of them for me are skirts. Con
 
 The crop that I wore was turtleneck also called “polo and roll” neck, basically a high one, which is what I usually prefer. And I played around with the suspenders to add a tinge of vintage charm to the crop.
 On the bottom front, the skirts I wore were asymmetric hem skirts that are greatly reaching the heights of popularity now. I love the fact that they can be sported versatile and not to forget, that effortless look you perceive from these hems.
-For the first look, which I titled, ‘The Fun chic capering around’, I paired my crop with a side high low skirt, which drapes down like a curtain from the knee area. I luckily found the right pair of golden shoes to tear with this chic look.
-For the second one, titled, ‘That poised girl’, I wore my bodycon asymmetric cut out skirt and to do more justice to the poised street look, I swapped my pair of golden sneakers with golden peeps and I was good to go!
+For the first look, which I titled, ‘The Fun-Around Chic’, I paired my crop with a side high low skirt, which drapes down like a curtain from the knee area. I luckily found the right pair of golden shoes to tear with this chic look.
+For the second one, titled, ‘That Poised Girl’, I wore my bodycon asymmetric cut out skirt and to do more justice to the poised street look, I swapped my pair of golden sneakers with golden peeps and I was good to go!
 Being a cosmic lover of the pure combination of black and white, I conveniently chose this fusion for my color palette along with a dash of gold that added more to the vibe.
 
 So this is it. I’d love to know how you guys thought of today’s post. See you all soon with another post! ☺
@@ -27,6 +27,12 @@ Photo Courtesy – Ashwini Chivukula. She’s done a great job and you’ll must
 
 P.S- The skirt that I wore for my first look, the side high low hem skirt was my made by me. It’s definitely super easy to make and I’d come up with a post for that very soon!
 
-![]({{site.baseurl}}/images/DSC_04851.jpg) 
-![]({{site.baseurl}}/images/DSC_05591.jpg)
 
+The Fun-Around Chic
+![]({{site.baseurl}}//images/DSC_0482.JPG)
+
+![]({{site.baseurl}}//images/DSC_04851.jpg)
+
+![]({{site.baseurl}}//images/DSC_0489.JPG)
+
+![]({{site.baseurl}}//images/DSC_0528.JPG)
