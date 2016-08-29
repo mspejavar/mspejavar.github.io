@@ -25,7 +25,7 @@ The Fun-Around Chic
 ![]({{site.baseurl}}/images/DSC_0489.JPG)
 ![]({{site.baseurl}}/images/DSC_0528.JPG)
 ![]({{site.baseurl}}/images/DSC_04341.JPG)
-![]({{%site.baseurl %}}/images/DSC_04721.JPG)
+![]({{% site.baseurl %}}/images/DSC_04721.JPG)
 {% image my-image.png "Image alt text" "Optional image caption" %}
 
 
