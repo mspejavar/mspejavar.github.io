@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Street Girl feat. Skirts
+title: Street Girl feat. Skirt
 category:
   - street
 featureImage: /images/skirt-affair.jpg
