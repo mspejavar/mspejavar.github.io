@@ -30,7 +30,6 @@ P.S- The skirt that I wore for my first look, the side high low hem skirt was my
 
 
 ### The Fun-Around Chic
-
 ![]({{site.baseurl}}/images/DSC_04722.JPG)
 ![]({{site.baseurl}}/images/DSC_0482.JPG)
 ![]({{site.baseurl}}/images/DSC_04851.jpg)
@@ -40,7 +39,6 @@ P.S- The skirt that I wore for my first look, the side high low hem skirt was my
 
 
 ### That Poised Girl
-
 ![]({{site.baseurl}}/images/DSC_0549.JPG)
 ![]({{site.baseurl}}/images/DSC_0550.JPG)
 ![]({{site.baseurl}}/images/DSC_0558.JPG)
