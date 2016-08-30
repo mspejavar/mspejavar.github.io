@@ -259,7 +259,12 @@ a {
     text-align: justify;
 }
 .post-content{
-    margin-bottom: 50px;
+    margin-bottom: 3em;
+    p {
+        font-size: 1.2rem;
+	line-height: 1.5;
+	margin-bottom: 2em;
+    }
     img {
         max-width: 100%;
         height: auto;
