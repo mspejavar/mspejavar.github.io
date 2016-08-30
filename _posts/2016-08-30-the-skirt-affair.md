@@ -26,7 +26,7 @@ So this is it. I’d love to know how you guys thought of today’s post. See yo
 
 Photo Courtesy – Ashwini Chivukula. She’s done a great job and you all must definitely check her instagram profile out - [AshChivy](http://instagram.com/ashchivy)
 
-P.S- The skirt that I wore for my first look, the side high low hem skirt was my attempt and making a skirt. It’s definitely super easy to make and I’d come up with a post for that very soon!
+P.S- The skirt that I wore for my first look, the side high low hem skirt was my attempt in making a skirt. It’s definitely super easy to make and I’d come up with a post for that very soon!
 
 
 ### The Fun-Around Chic
