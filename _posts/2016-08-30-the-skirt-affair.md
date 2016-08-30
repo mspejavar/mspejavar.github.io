@@ -61,4 +61,4 @@ P.S- The skirt that I wore for my first look, the side high low hem skirt was my
 
 
 
-Top: Bugis Street, Singapore	| Suspenders: Amazon India	| Bodycon Skirt: Bugis Street, Singapore	| High Low Skirt: Custom Made	| Heels: Jabong India 		| Sneakers: Call It Spring |	Sling: Caprese
+Top: Bugis Street, Singapore|Suspenders: Amazon India|Bodycon Skirt: Bugis Street, Singapore	| High Low Skirt: Custom Made| Heels: Jabong India | Sneakers: Call It Spring |	Sling: Caprese
