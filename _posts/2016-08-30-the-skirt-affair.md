@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Street Girl feat. Skirts
 category:
   - street
@@ -26,36 +26,21 @@ So this is it. I’d love to know how you guys thought of today’s post. See yo
 
 Photo Courtesy – Ashwini Chivukula. She’s done a great job and you all must definitely check her instagram profile out - [AshChivy](http://instagram.com/ashchivy)
 
-P.S- The skirt that I wore for my first look, the side high low hem skirt was my attempt and making a skirt. It’s definitely super easy to make and I’d come up with a post for that very soon!
+P.S- The skirt that I wore for my first look, the side high low hem skirt was my attempt in making a skirt. It’s definitely super easy to make and I’d come up with a post for that very soon!
 
 
 ### The Fun-Around Chic
-
+![]({{site.baseurl}}/images/DSC_04722.JPG)
 ![]({{site.baseurl}}/images/DSC_0482.JPG)
-
 ![]({{site.baseurl}}/images/DSC_04851.jpg)
-
 ![]({{site.baseurl}}/images/DSC_0489.JPG)
-
 ![]({{site.baseurl}}/images/DSC_0528.JPG)
-
 ![]({{site.baseurl}}/images/DSC_04342.JPG)
 
-![]({{site.baseurl}}/images/DSC_04722.JPG)
-
-
-
 ### That Poised Girl
-
 ![]({{site.baseurl}}/images/DSC_0549.JPG)
-
 ![]({{site.baseurl}}/images/DSC_0550.JPG)
-
 ![]({{site.baseurl}}/images/DSC_0558.JPG)
-
-![]({{site.baseurl}}/images/DSC_05592.JPG)
-
 ![]({{site.baseurl}}/images/DSC_05602.JPG)
-
-
-Top:  Bugis Street, Singapore | Suspenders: Amazon India | Bodycon Skirt: Bugis Street, Singapore | High Low Skirt: Custom Made | Heels: Jabong India | Sneakers: Call ItSpring | Sling: Caprese
+![]({{site.baseurl}}/images/DSC_05591.jpg)
+Top: Bugis Street, Singapore; Suspenders: Amazon India; Bodycon Skirt: Bugis Street, Singapore; High Low Skirt: Custom Made; Heels: Jabong India; Sneakers: Call It Spring; Sling: Caprese
