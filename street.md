@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Street Style
-permalink: /street/
+permalink: /streetstyle/
 featureImage: /images/streetstyle.jpg
 thumbnailImage: /images/thumbs/streetstyle.jpg
 published: true
