@@ -23,5 +23,5 @@ Here, I have brought in two looks, fusing the chosen few retro staples in a rand
 For the second one, which was more of a vintage style, I paired my same crop with an umbrella skirt which totally takes its inspiration from the great Victorian era. Finally to bind the entire look together, got my hands on the layered pearl chain.
 Lastly, moving over to the color palette, It was all about recreating fashion flashback in red and white, the colors of the Singaporean flag.
 
-![]({{site.baseurl}}/images/DSC_06321.JPG)
-![]({{site.baseurl}}/images/DSC_07771.JPG)
+![]({{site.baseurl}}/images/DSC_06321.jpg)
+![]({{site.baseurl}}/images/DSC_07771.jpg)
