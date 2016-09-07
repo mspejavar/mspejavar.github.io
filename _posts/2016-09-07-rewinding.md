@@ -40,11 +40,13 @@ Hope you enjoy today's post! Until next time. See you :)
 ![]({{site.baseurl}}/images/DSCN0339.JPG)
 ![]({{site.baseurl}}/images/DSCN0340.JPG)
 Photo Courtesy: Prashanth Rao, my uncle
+
 Outfit details:
-Crop top and Choker- [Forever21](http://www.forever21.com)
-Pant- [Zara](http://www.zara.com/)
-Bag- [Guess](http://www.guess.com/en/)
-shoes- [Forever21](http://www.forever21.com)
+- Crop top and Choker- [Forever21](http://www.forever21.com)
+- Pant- [Zara](http://www.zara.com/)
+- Bag- [Guess](http://www.guess.com/en/)
+- shoes- [Forever21](http://www.forever21.com)
+
 
 
 ### Outfit 2
@@ -55,9 +57,11 @@ shoes- [Forever21](http://www.forever21.com)
 ![]({{site.baseurl}}/images/DSC_0688.JPG)
 ![]({{site.baseurl}}/images/DSC_07771.jpg)
 Photo Courtesy: [Ashwini Chivukula](https://www.instagram.com/ashchivy/)
+
 Outfit details:
-Crop top- [Forever21](http://www.forever21.com)
-Skirt- [Zara](http://www.zara.com/)
-Sling Bag- [Forever21](http://www.forever21.com)
-Shoes- [Jabong](www.jabong.com)
-Accessories- [Forever21](http://www.forever21.com)
+- Crop top- [Forever21](http://www.forever21.com)
+- Skirt- [Zara](http://www.zara.com/)
+- Sling Bag- [Forever21](http://www.forever21.com)
+- Shoes- [Jabong](www.jabong.com)
+- Accessories- [Forever21](http://www.forever21.com)
+
