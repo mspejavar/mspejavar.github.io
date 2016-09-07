@@ -5,9 +5,7 @@ title: Rewinding
 featureImage: /images/DSC_07771.jpg
 thumbnailImage: /images/thumbs/DSC_0688thum.jpg
 ---
-## Rewind the moment
-
->They say that nostalgia paints a smile on the stony face of the past.
+##They say that nostalgia paints a smile on the stony face of the past.
 
 And I’m certain that this feeling is enjoyed by the millennial crowd and of course, I’m broaching the warmer side here. With the unforgettable faint fragrances to the long-lost sounds to the archaic photographic albums, nostalgia drives around most of the times and these mentioned factors kindle that positive sensation in us, taking us back to the past to relive that moment again .
 
@@ -28,9 +26,9 @@ Here, I have brought in two looks, fusing the chosen few retro staples in a rand
 For the second one, which was more of a vintage style, I paired my same crop with an umbrella skirt which totally takes its inspiration from the great Victorian era. Finally to bind the entire look together, got my hands on the layered pearl chain.
 Lastly, moving over to the color palette, It was all about recreating fashion flashback in red and white, the colors of the Singaporean flag.
 
-Hope you enjoy today's post!See you untill next time :)
+Hope you enjoy today's post! See you untill next time :)
 
-look 1
+Outfit #1
 
 ![]({{site.baseurl}}/images/DSC_06321.jpg)
 
