@@ -58,9 +58,14 @@ shoes- [Forever21](http://www.forever21.com)
 ![]({{site.baseurl}}/images/DSC_07771.jpg)
 Photo Courtesy: [Ashwini Chivukula](https://www.instagram.com/ashchivy/)
 
-Outfit details:
+Outfit details
+
 Crop top- [Forever21](http://www.forever21.com)
+
 Skirt- [Zara](http://www.zara.com/)
+
 Sling Bag- [Forever21](http://www.forever21.com)
+
 Shoes- [Jabong](www.jabong.com)
+
 Accessories- [Forever21](http://www.forever21.com)
