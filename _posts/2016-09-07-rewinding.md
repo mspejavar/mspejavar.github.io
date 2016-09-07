@@ -42,10 +42,10 @@ Hope you enjoy today's post! Until next time. See you :)
 Photo Courtesy: Prashanth Rao, my uncle
 
 Outfit details:
-Crop top and Choker- [Forever21](http://www.forever21.com)
-Pant- [Zara](http://www.zara.com/)
-Bag- [Guess](http://www.guess.com/en/)
-shoes- [Forever21](http://www.forever21.com)
+- Crop top and Choker- [Forever21](http://www.forever21.com)
+- Pant- [Zara](http://www.zara.com/)
+- Bag- [Guess](http://www.guess.com/en/)
+- Shoes- [Forever21](http://www.forever21.com)
 
 
 
