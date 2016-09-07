@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Rewinding
 featureImage: /images/DSC_07771.jpg
 thumbnailImage: /images/thumbs/DSC_0688thum.jpg
