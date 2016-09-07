@@ -6,7 +6,6 @@ featureImage: /images/DSC_07771.jpg
 thumbnailImage: /images/thumbs/DSC_0688thum.jpg
 ---
 ##They say that nostalgia paints a smile on the stony face of the past.
-
 And I’m certain that this feeling is enjoyed by the millennial crowd and of course, I’m broaching the warmer side here. With the unforgettable faint fragrances to the long-lost sounds to the archaic photographic albums, nostalgia drives around most of the times and these mentioned factors kindle that positive sensation in us, taking us back to the past to relive that moment again .
 
 Every time someone mentions something related to our bygone days, we just pause right there, slowly crashing back in time feeling all the joy. Did we just feel feel nostalgic about nostalgia? 
