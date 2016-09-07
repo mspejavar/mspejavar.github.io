@@ -8,7 +8,7 @@ thumbnailImage: /images/thumbs/DSC_0688thum.jpg
 ### They say that nostalgia paints a smile on the stony face of the past.
 And I’m certain that this feeling is enjoyed by the millennial crowd and of course, I’m broaching the warmer side here. With the unforgettable faint fragrances to the long-lost sounds to the archaic photographic albums, nostalgia drives around most of the times and these mentioned factors kindle that positive sensation in us, taking us back to the past to relive that moment again .
 
-Every time someone mentions something related to our bygone days, we just pause right there, slowly crashing back in time feeling all the joy. Did we just feel feel nostalgic about nostalgia? 
+Every time someone mentions something related to our bygone days, we just pause right there, slowly crashing back in time feeling all the joy. Did we just feel nostalgic about nostalgia? 
 
 Like everyone of us, I’ve always had this habit of looking through the overloaded photo albums of the past and rejoicing over them. And over time, it became more of a comfort therapy to me which was an added advantage. And those childhood days, especially the baby to the preteen stage which I spent in Singapore, which went by easily, were the ones I’d always crave for. Besides, those pictures have always reminded me of the bucolic setting and the emotional importance of that place where I started it all. So I decided to visit Singapore, after 14 years, for that ephemeral feeling of reliving my childhood. And this time I hoped to capture it forever, in the digital world.
 
