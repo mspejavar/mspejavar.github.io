@@ -35,9 +35,9 @@ Hope you enjoy today's post! Until next time. See you :)
 ### Outfit 1
 
 ![]({{site.baseurl}}/images/DSCN0343.JPG)
+![]({{site.baseurl}}/images/DSCN0339.JPG)
 ![]({{site.baseurl}}/images/DSCN0323.JPG)
 ![]({{site.baseurl}}/images/DSCN0335.JPG)
-![]({{site.baseurl}}/images/DSCN0339.JPG)
 ![]({{site.baseurl}}/images/DSCN0340.JPG)
 Photo Courtesy: Prashanth Rao, my uncle
 
