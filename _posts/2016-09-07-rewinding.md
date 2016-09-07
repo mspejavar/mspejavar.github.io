@@ -22,8 +22,8 @@ Coming to think of the 80s and 90s, I got reminded of the ever charming Princess
 There’s a lot more in store and the list would just keep flowing when it’s to do with the Past fashion and today, Fashion completely takes its inspiration from that very list.
 
 Here, I have brought in two looks, fusing the chosen few retro staples in a random fashion manner. In the first one, I updated my striped off shoulder crop with a matching ribbon like choker which I paired with my high waist trousers which are brought to you straight from the 50s feminine style lines. And to nail this retrofit, threw on my 90s inspired platform wedges.
-For the second one, which was more of a vintage style, I paired my same crop with an umbrella skirt which totally takes its inspiration from the great Victorian era. Finally to bind the entire look together, got my hands on the layered pearl chain.
-Lastly, moving over to the color palette, It was all about recreating fashion flashback in red and white, the colors of the Singaporean flag.
+For the second one, which was more of a vintage style, I paired the same crop with an umbrella skirt which totally takes its inspiration from the great Victorian era. Finally to bind the entire look together, got my hands on the layered pearl chain.
+Lastly, moving over to the color palette, it was all about recreating fashion flashback in red and white, the colors of the Singaporean flag.
 
 Hope you enjoy today's post! See you untill next time :)
 
