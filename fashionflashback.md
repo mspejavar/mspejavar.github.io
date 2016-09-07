@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Fashion Flashback
-permalink: /past/
+permalink: /fashionflashback/
 featureImage: /images/retro.jpg
 thumbnailImage: /images/thumbs/retro.jpg
 published: true
