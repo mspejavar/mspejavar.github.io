@@ -24,4 +24,5 @@ For the second one, which was more of a vintage style, I paired my same crop wit
 Lastly, moving over to the color palette, It was all about recreating fashion flashback in red and white, the colors of the Singaporean flag.
 
 ![]({{site.baseurl}}/images/DSC_06321.jpg)
+
 ![]({{site.baseurl}}/images/DSC_07771.jpg)
