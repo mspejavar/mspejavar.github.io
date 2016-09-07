@@ -39,7 +39,7 @@ Hope you enjoy today's post! Until next time, See you :)
 ![]({{site.baseurl}}/images/DSCN0323.JPG)
 ![]({{site.baseurl}}/images/DSCN0335.JPG)
 ![]({{site.baseurl}}/images/DSCN0340.JPG)
-Photo Courtesy: Prashanth Rao, my uncle
+Photo Courtesy: Prashanth RaO
 
 Outfit details:
 - Crop top and Choker- [Forever21](http://www.forever21.com)
