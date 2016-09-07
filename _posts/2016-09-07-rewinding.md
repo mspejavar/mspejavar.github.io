@@ -59,3 +59,5 @@ Outfit details:
 Crop top- [Forever21](http://www.forever21.com)
 Skirt- [Zara](http://www.zara.com/)
 Sling Bag- [Forever21](http://www.forever21.com)
+Shoes- [Jabong](www.jabong.com)
+Accessories- [Forever21](http://www.forever21.com)
