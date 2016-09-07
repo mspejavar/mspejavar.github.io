@@ -32,31 +32,18 @@ Hope you enjoy today's post! Until next time. See you :)
 
 
 
-
-Outfit #1
+### Outfit 1
 
 ![]({{site.baseurl}}/images/DSCN0343.JPG)
-
 ![]({{site.baseurl}}/images/DSCN0323.JPG)
-
-![]({{site.baseurl}}/images/DSCN0327.JPG)
-
-![]({{site.baseurl}}/images/DSCN0330.JPG)
-
 ![]({{site.baseurl}}/images/DSCN0335.JPG)
-
 ![]({{site.baseurl}}/images/DSCN0339.JPG)
-
 ![]({{site.baseurl}}/images/DSCN0340.JPG)
 
-Outfit #2
-
-![]({{site.baseurl}}/images/DSC_07771.jpg)
+### Outfit 2
 
 ![]({{site.baseurl}}/images/DSC_0707.JPG)
-
 ![]({{site.baseurl}}/images/DSC_0706.JPG)
-
 ![]({{site.baseurl}}/images/DSC_0732.JPG)
-
 ![]({{site.baseurl}}/images/DSC_0688.JPG)
+![]({{site.baseurl}}/images/DSC_07771.jpg)
