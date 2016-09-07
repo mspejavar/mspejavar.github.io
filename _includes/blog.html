@@ -12,6 +12,7 @@
 	</div>
 </div>
 {% if page.title != 'Home' %} 
+{% if page.title != 'Welcome' %} 
 <div class="section preview">
 {% for post in site.posts %}
     <h1 class="title">
@@ -23,6 +24,7 @@
                 {{ post.content | truncatewords: 75 }}
                 <a href="{{ post.url }}" class="btn">Read More&hellip;</a>
 {% endfor %}
+{% endif %}
 {% endif %}
 
 
