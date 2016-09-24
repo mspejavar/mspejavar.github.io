@@ -31,8 +31,9 @@ Until next time, See you :)
 ![]({{site.baseurl}}/images/DSCN05381.jpg)
 ![]({{site.baseurl}}/images/DSCN05471.jpg)
 Photo Courtesy:    [Mamatha Prashanth](https://www.facebook.com/mamatha.prashanth) 
+
 ### Outfit details:
 - Shrug turned Crop Top-            [People](https://www.peopleonline.co.in/?source=trendinclosing)
-- Pencil Skirt turned Draped Skirt- [Forever21](http://www.forever21.com)
-- shoes-                            [Forever21](http://www.myntra.com/heels/forever-21/forever-21-women-brown-wedges/1366126/buy)
+- Pencil Skirt turned Draped Skirt- [Forever21](http://www.myntra.com/Skirts/FOREVER-21/FOREVER-21-Grey-Pencil-Skirt/1103593/buy)
+- shoes-                            [Forever21](http://www.myntra.com/women-heels-menu?src=tNav&f=Heel_Type_article_attr%3Awedge%3A%3Abrands%3AFOREVER%252021)
 - Sling Bag-                        [Joker And Witch](http://www.myntra.com/Skirts/FOREVER-21/FOREVER-21-Grey-Pencil-Skirt/1103593/buy)
