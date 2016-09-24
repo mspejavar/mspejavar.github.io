@@ -30,8 +30,8 @@ Until next time, See you :)
 ![]({{site.baseurl}}/images/DSCN05361.jpg)
 ![]({{site.baseurl}}/images/DSCN05381.jpg)
 ![]({{site.baseurl}}/images/DSCN05471.jpg)
-Photo Courtesy:    [Mamatha Prashanth](https://www.facebook.com/mamatha.prashanth)
-Location Courtesy: Chinese Garden, Singapore 
+### Photo Courtesy:    [Mamatha Prashanth](https://www.facebook.com/mamatha.prashanth)
+### Location Courtesy: Chinese Garden, Singapore 
 
 ### Outfit details:
 - Shrug turned Crop Top-            [People](https://www.peopleonline.co.in/?source=trendinclosing)
