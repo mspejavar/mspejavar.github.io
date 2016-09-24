@@ -27,9 +27,9 @@ Until next time, See you :)
 ![]({{site.baseurl}}/images/DSCN0526.JPG)
 ![]({{site.baseurl}}/images/DSCN05291.JPG)
 ![]({{site.baseurl}}/images/DSCN05301.jpg)
-![]({{site.baseurl}}/images/DSCN005361.jpg)
-![]({{site.baseurl}}/images/DSCN005381.jpg)
-![]({{site.baseurl}}/images/DSCN005471.jpg)
+![]({{site.baseurl}}/images/DSCN05361.jpg)
+![]({{site.baseurl}}/images/DSCN05381.jpg)
+![]({{site.baseurl}}/images/DSCN05471.jpg)
 
 Photo Courtesy: [Mamatha Prashanth](https://www.facebook.com/mamatha.prashanth)
 
