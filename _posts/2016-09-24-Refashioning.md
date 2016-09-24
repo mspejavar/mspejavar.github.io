@@ -32,7 +32,6 @@ Until next time, See you :)
 ![]({{site.baseurl}}/images/DSCN05471.jpg)
 
 Photo Courtesy: [Mamatha Prashanth](https://www.facebook.com/mamatha.prashanth)
-
 Location Courtesy: [Chinese Garden, Singapore](https://en.wikipedia.org/wiki/Chinese_Garden,_Singapore)
 
 Outfit details:
