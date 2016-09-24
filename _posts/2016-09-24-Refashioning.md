@@ -18,7 +18,7 @@ I paired this shrug turned crop with a muted grey pencil skirt, a member of the 
 May be I could have altered it to acquire that wonder fit but thought changing the look with a bit of an edge to bag that desired fit would be a better end. Here, I Slightly draped one of the side seams and pinned it up, leaving no space and fixing that fit. I Wrapped up this look with chocolate brown accessories, a pair of strappy wedges and a fringe sling bag.
 The colors I pulled out here , Navy blue, Grey, and chocolate brown, are pretty simple yet an essential quotidian palette that we all spot on the streets and one can never go wrong with such a palette.
 
-This pretty much summed up today's post and yes, I'd definitely recommend you'll to clean your closets seasonally for new fashion walks every season and getting gushed with ideas to revamp those unused attached pieces will be a sure thing!
+This pretty much summed up today's post and yes, I'd definitely recommend you'll to clean your closets seasonally for new fashion walks in every season and getting gushed with ideas to revamp those unused attached pieces will be a sure thing!
 
 Hope you enjoy this post as much as I enjoyed shooting for it!
 Until next time, See you :)
