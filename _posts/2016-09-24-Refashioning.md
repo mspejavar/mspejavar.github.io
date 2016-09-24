@@ -30,7 +30,9 @@ Until next time, See you :)
 ![]({{site.baseurl}}/images/DSCN005361.jpg)
 ![]({{site.baseurl}}/images/DSCN005381.jpg)
 ![]({{site.baseurl}}/images/DSCN005471.jpg)
+
 Photo Courtesy: [Mamatha Prashanth](https://www.facebook.com/mamatha.prashanth)
+
 Location Courtesy: [Chinese Garden, Singapore](https://en.wikipedia.org/wiki/Chinese_Garden,_Singapore)
 
 Outfit details:
@@ -38,4 +40,3 @@ Outfit details:
 - Pencil Skirt turned Draped Skirt- [Forever21](http://www.forever21.com)
 - shoes-                            [Forever21](http://www.forever21.com)
 - Sling Bag-                        [Joker And Witch](https://jokerandwitch.com/collections/handbags/brown)
-
