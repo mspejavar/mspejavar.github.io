@@ -2,6 +2,10 @@
 layout: post
 published: false
 title: Refashioning
+category:
+  - custom
+featureImage: /images/DSCN052411.jpg
+thumbnailImage: /images/thumbs/DSCN05342.jpg
 ---
 
 
