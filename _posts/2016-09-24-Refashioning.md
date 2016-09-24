@@ -35,4 +35,4 @@ Photo Courtesy:    [Mamatha Prashanth](https://www.facebook.com/mamatha.prashant
 - Shrug turned Crop Top-            [People](https://www.peopleonline.co.in/?source=trendinclosing)
 - Pencil Skirt turned Draped Skirt- [Forever21](http://www.forever21.com)
 - shoes-                            [Forever21](http://www.myntra.com/heels/forever-21/forever-21-women-brown-wedges/1366126/buy)
-- Sling Bag-                        [Joker And Witch](https://jokerandwitch.com/collections/handbags/brown)
+- Sling Bag-                        [Joker And Witch](http://www.myntra.com/Skirts/FOREVER-21/FOREVER-21-Grey-Pencil-Skirt/1103593/buy)
