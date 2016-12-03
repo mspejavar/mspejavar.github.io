@@ -4,6 +4,8 @@ published: false
 title: The Elegant Wanderer
 featureImage: /images/_KPT2937 copy.jpg
 thumbnailImage: /images/thumbs/_KPT2988 copy - Copy.jpg
+category:
+  - ethnicity
 ---
 
 How balanced are we playing dress up?
@@ -37,4 +39,3 @@ I hope you guys like this post and if you happen to create any kind of cocktail 
 ![]({{site.baseurl}}/images/_KPT2988 copy.jpg)
 
 Photo Courtesy:    [KPT Photography](https://www.instagram.com/kptphotography/) - Thank you for such great pictures and it was great working with you! :)
-
