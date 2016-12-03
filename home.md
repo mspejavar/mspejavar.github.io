@@ -9,9 +9,9 @@ order: 1
 <div class="media">
 	<div class="media-img"><img src="/images/index-recent.jpg" alt=""></div>
 	<div class="media-bd" style="padding-left:28px;">
-                <a href="/blog/custom/2016/09/Refashioning/">
-		<div style="background:url('/images/DSCN05343.jpg') no-repeat;height:400px;padding: 10px 24px;">
-			<p style="background-color: rgba(0,0,0,0.8);padding: 10px;font-size: 24px; font-family:Cormorant;margin-top: 300px;">Latest Post: Refashioning</p>
+                <a href="/blog/custom/2016/12/The Elegant Wanderer/">
+		<div style="background:url('/images/_KPT2938 copy.jpg') no-repeat;height:400px;padding: 10px 24px;">
+			<p style="background-color: rgba(0,0,0,0.8);padding: 10px;font-size: 24px; font-family:Cormorant;margin-top: 300px;">Latest Post: The Elegant Wanderer</p>
 		</div></a>
 	</div>
 </div>
