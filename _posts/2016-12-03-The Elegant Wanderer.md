@@ -27,6 +27,7 @@ If you’re on a look out for some blending fashion, you could try something lik
 
 I hope you guys like this post and if you happen to create any kind of cocktail style, I'd love to know! 
 
+![]({{site.baseurl}}/images/KPT2988.jpg)
 ![]({{site.baseurl}}/images/KPT2928.jpg)
 ![]({{site.baseurl}}/images/KPT2948.jpg)
 ![]({{site.baseurl}}/images/KPT2953.jpg)
@@ -34,6 +35,6 @@ I hope you guys like this post and if you happen to create any kind of cocktail 
 ![]({{site.baseurl}}/images/KPT2997.jpg)
 ![]({{site.baseurl}}/images/KPT2975.jpg)
 ![]({{site.baseurl}}/images/KPT2977.jpg)
-![]({{site.baseurl}}/images/KPT2988.jpg)
+
 
 Photo Courtesy:    [KPT Photography](https://www.instagram.com/kptphotography/) - Thank you for such great pictures and it was great working with you! :)
