@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: Untitled
-featureImage: /images/DSCN052411.jpg
+featureImage: /images/_KPT2937 copy.jpg
 thumbnailImage: /images/thumbs/_KPT2988 copy - Copy.jpg
 ---
 It's the dawn of a season and most of us throw open the doors of our closets, going through and cleaning them.
