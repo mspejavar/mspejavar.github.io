@@ -3,7 +3,7 @@ layout: post
 published: false
 title: Untitled
 featureImage: /images/DSCN052411.jpg
-thumbnailImage: /images/thumbs/DSCN05342.jpg
+thumbnailImage: /images/thumbs/_KPT2988 copy - Copy.jpg
 ---
 It's the dawn of a season and most of us throw open the doors of our closets, going through and cleaning them.
 So, when I usually sit back, I rediscover all kinds of jumbled items, from the all-time favourites to the daily essential staples to the items that once made our hearts sway and finally to the simply untouched ones. Most of us are emotionally tholed to certain items in there and Revamping or Redefining them to mod standards or to just our styling senses makes for a finer idea, adding more to the closet efficiently and saving ourselves from spending some extra bucks.
