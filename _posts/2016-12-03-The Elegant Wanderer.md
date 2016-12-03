@@ -26,6 +26,12 @@ And not to forget the beautifully rustic backdrop which did so much justice to t
 If you’re on a look out for some blending fashion, you could try something like this and also, reuse old silk sarees in many other ways like kurtis, anarkalis, Indian gowns and so on. 
 
 I hope you guys like this post and if you happen to create any kind of cocktail style, I'd love to know! 
+![]({{site.baseurl}}/images/_KPT2928 copy.jpg)
+
+
+
+
+
 
 ![]({{site.baseurl}}/images/_KPT2928 copy.jpg)
 ![]({{site.baseurl}}/images/_KPT2948 copy.jpg)
