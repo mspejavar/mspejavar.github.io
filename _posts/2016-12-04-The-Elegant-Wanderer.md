@@ -20,6 +20,7 @@ Being hung up on the "adding an Indian touch" usually, I thought why not the oth
 I decided to take it to a mod level by picking a truly fast moving piece, the white off shoulder blouse itself. I don’t think this trend would ever go off track.
 And the bohemian chic look is the epitome of trend nowadays. Who doesn't love it?
 This white off-shoulder blouse with a tie up in front would completely bring to light the inner boho spirit giving softness to the south Indian look.
+
 Working on the south Indian look a little more, I paired with the outfit some antique pieces which resembled the popular temple jewellery; here it was the coin chain which is back in the market. Besides, my loosely braided hair and the berry lips played fair to the overall look. 
 And not to forget the beautifully rustic backdrop which did so much justice to the outfit.
 
