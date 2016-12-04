@@ -36,5 +36,10 @@ I hope you guys like this post and if you happen to create any kind of cocktail 
 ![]({{site.baseurl}}/images/KPT2975.jpg)
 ![]({{site.baseurl}}/images/KPT2977.jpg)
 
-
 Photo Courtesy:    [KPT Photography](https://www.instagram.com/kptphotography/) - Thank you for such great pictures and it was great working with you! :)
+
+### Outfit details:
+- Off shoulder top - [forever21](www.forever21.com)           
+- Kancheepuram saree turned pleated skirt - Grandmother's closet
+- Accessories - Commercial street
+- Lip color - [Babes And Balls](http://www.maccosmetics.com/product/13854/310/Products/Makeup/Lips/Lipstick/Lipstick#/shade/Babes_and_Balls_-_ONLINE_EXCLUSIVE)
