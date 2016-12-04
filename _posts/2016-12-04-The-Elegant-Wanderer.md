@@ -33,7 +33,7 @@ I hope you guys like this post and if you happen to create any kind of cocktail 
 ![]({{site.baseurl}}/images/KPT2948.jpg)
 ![]({{site.baseurl}}/images/KPT2952.jpg)
 ![]({{site.baseurl}}/images/KPT2997.jpg)
-![]({{site.baseurl}}/images/KPT2941.jpg)
+![]({{site.baseurl}}/images/KPT2999.jpg)
 ![]({{site.baseurl}}/images/KPT2975.jpg)
 ![]({{site.baseurl}}/images/KPT2977.jpg)
 
