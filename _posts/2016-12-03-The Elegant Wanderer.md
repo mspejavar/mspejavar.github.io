@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: The Elegant Wanderer
 featureImage: /images/KPT2937.jpg
 thumbnailImage: /images/thumbs/KPT29881.jpg
